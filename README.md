@@ -18,25 +18,20 @@ The submission includes:
 
 # Folder Structure
 
-## part-a
-Contains:
-- Final qualified company database
-- Failed companies list
-- Methodology
-- Evidence tracking
+## Core Files
+- final_companies.csv
+- failed_companies.csv
+- methodology.md
+- sourcing-methods.md
+- 1000-company-proposal.md
 
-## part-b
-Contains:
-- Sourcing methods
-- Scale-up proposal
-- Quality-control framework
-- Hand-drawn diagram
-
-## code
-Contains:
-- AI prompts
-- Scraping notes
-- Automation experiments
+## Supporting Files
+- evidence_sources.md
+- research_process.md
+- research_notes.md
+- quality-control-framework.md
+- prompts.txt
+- scraping_notes.md
 
 ---
 
@@ -47,3 +42,15 @@ Contains:
 - Manual review of edge cases
 - AI hallucination guardrails
 - Evidence-backed scoring
+
+---
+
+# Notes
+
+The assignment was completed using a combination of:
+- manual research,
+- structured qualification,
+- AI-assisted organization,
+- and human verification.
+
+AI-generated claims were not accepted without source validation.
