@@ -1,7 +1,7 @@
 # DeepThought — Federer ICP Assignment
 
 ## Candidate
-[Your Name]
+Dev Vyawahare
 
 ## Objective
 This assignment focuses on identifying promoter-led, differentiated Indian specialty manufacturers that fit DeepThought's Federer ICP framework.
