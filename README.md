@@ -18,21 +18,21 @@ The submission includes:
 
 # Folder Structure
 
-## /part-a
+## part-a
 Contains:
 - Final qualified company database
 - Failed companies list
 - Methodology
 - Evidence tracking
 
-## /part-b
+## part-b
 Contains:
 - Sourcing methods
 - Scale-up proposal
 - Quality-control framework
 - Hand-drawn diagram
 
-## /code
+## code
 Contains:
 - AI prompts
 - Scraping notes
