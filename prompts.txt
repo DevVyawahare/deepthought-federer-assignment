@@ -10,3 +10,9 @@ List companies with DSIR-recognized R&D and export activity.
 
 Prompt 4:
 Find companies with recent manufacturing expansion or certification activity.
+
+Prompt 5:
+Exclude PE-owned companies, subsidiaries, and companies above Rs.500Cr revenue.
+
+Prompt 6:
+Identify specialty manufacturers operating in China+1 beneficiary sectors.
