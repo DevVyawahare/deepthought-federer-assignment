@@ -40,3 +40,12 @@ Some missing data but strong overall fit.
 
 ### Borderline
 Needs further investigation.
+
+---
+
+# Rejection Discipline
+
+Companies were conservatively rejected if:
+- ownership was unclear,
+- manufacturing evidence was weak,
+- or activity signals were stale.
