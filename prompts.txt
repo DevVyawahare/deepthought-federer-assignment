@@ -1,0 +1,12 @@
+Prompt 1:
+Find Indian specialty biotech manufacturers in Hyderabad.
+Exclude CROs, distributors, and generic pharma.
+
+Prompt 2:
+Identify founder-led diagnostics manufacturers with in-house production capability.
+
+Prompt 3:
+List companies with DSIR-recognized R&D and export activity.
+
+Prompt 4:
+Find companies with recent manufacturing expansion or certification activity.
