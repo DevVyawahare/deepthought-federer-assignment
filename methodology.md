@@ -10,9 +10,12 @@ Hyderabad
 - Specialty biotech
 - Diagnostics & life-science tools
 
-## Research Funnel
+---
 
-### Stage 1 — Broad Discovery
+# Research Funnel
+
+## Stage 1 — Broad Discovery
+
 Sources used:
 - LinkedIn
 - BioSpectrum India
@@ -29,7 +32,8 @@ Initial universe:
 
 ---
 
-### Stage 2 — Fast Elimination
+## Stage 2 — Fast Elimination
+
 Companies were rejected if they were:
 - CROs
 - distributors
@@ -44,7 +48,8 @@ Remaining:
 
 ---
 
-### Stage 3 — Deep Qualification
+## Stage 3 — Deep Qualification
+
 Each company was evaluated across:
 - manufacturing capability
 - technical differentiation
